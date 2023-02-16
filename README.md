@@ -10,5 +10,5 @@ Only for assessment.
 ## APIs
 - ```POST /items``` creates a new medical bill
 - ```GET /items``` returns a list of medical bills
-- ```GET /items/:id``` returns a specific medical bill
 - ```PATCH /items/:id``` updates a medical bill
+- ```DELETE /items/:id``` deletes a medical bill
