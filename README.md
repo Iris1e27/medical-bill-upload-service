@@ -6,3 +6,9 @@ Only for assessment.
 2. ```git clone https://github.com/Iris1e27/medical-bill-upload-service.git```
 3. ```npm install package```
 4. ```node app.js```
+
+## APIs
+- ```POST /items``` creates a new medical bill
+- ```GET /items``` returns a list of medical bills
+- ```GET /items/:id``` returns a specific medical bill
+- ```PATCH /items/:id``` updates a medical bill
